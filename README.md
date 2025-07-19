@@ -21,9 +21,10 @@
 
 ## 🎖️ Certifications
 - ✅ Internship in Artificial Intelligence (Personifwy)
-- ✅ Text Classification Project with TensorFlow
-- ✅ Coursera: Machine Learning by Andrew Ng, Deep Learning Specialization, Python for Everybody
+- ✅ Certificate for AI program from Alcheringa,IIT Guwahati & 1STOP.ai
+- ✅ Coursera: Various Certificates
+- More will be added soon enough.
 
 ## 📫 How to reach me:
 - [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:psray313@gmail.com)
