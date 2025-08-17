@@ -26,5 +26,5 @@
 - More will be added soon enough.
 
 ## 📫 How to reach me:
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/prabhupada-samantaray-13apr2002/))
 - [Email](mailto:psray313@gmail.com)
